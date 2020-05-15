@@ -1,0 +1,11 @@
+edu/campus02/iwi/spark/lv/classification/nb/spam/SpamDetectorBasic.class
+edu/campus02/iwi/spark/lv/classification/rf/covtype/TreesAndForestClassifier.class
+edu/campus02/iwi/spark/lv/classification/nb/lenses/ContactLensClassifier.class
+spark/exercise/utils/MovieTitle.class
+spark/exercise/utils/MailUtils$MailMsg.class
+edu/campus02/iwi/spark/lv/classification/nb/shades/ExplicitContentDetector.class
+edu/campus02/iwi/spark/lv/WinConfig.class
+spark/exercise/utils/MovieRating.class
+edu/campus02/iwi/spark/lv/recommender/alsmf/MovieRecommendation.class
+spark/exercise/utils/MailUtils.class
+spark/exercise/utils/PreprocessUtils.class
